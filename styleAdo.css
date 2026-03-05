@@ -1,0 +1,46 @@
+body 
+{
+	background: lightblue;
+	font-family: Comic Sans MS;
+}
+
+.titulo
+{
+	text-align: center;
+	font-size: 35px;
+	font-family: Forte;
+}
+
+.contenido
+{
+	font-size: 15px;
+	text-align: justify;
+}
+
+.subt
+{
+	font-size: 25px;
+	text-align: center;
+}
+
+.marco
+{
+	text-align: center;
+}
+
+.marco2
+{
+	text-align: center;
+}
+
+.foto1
+{
+	border-radius: 50%;
+	width: 25%;
+}
+
+.piepagina
+{
+	font-size: 8px;
+	text-align: center;
+}
