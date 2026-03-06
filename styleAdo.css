@@ -1,6 +1,6 @@
 body 
 {
-	background: lightblue;
+	background: #add8e6;
 	font-family: Comic Sans MS;
 }
 
@@ -24,11 +24,6 @@ body
 }
 
 .marco
-{
-	text-align: center;
-}
-
-.marco2
 {
 	text-align: center;
 }

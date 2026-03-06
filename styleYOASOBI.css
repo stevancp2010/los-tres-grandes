@@ -1,6 +1,41 @@
 body 
 {
-	background: lightgoldenrodyellow;
+	background: #92a8b5;
+}
+
+.tb
+{
+	background: #ffc7c4;
+}
+
+.tb2
+{
+	background: #b6eebd;
+}
+
+.tb3
+{
+	background: #fff38a;
+}
+
+.es
+{
+	background: #ee97a8;
+}
+
+.es2
+{
+	background: #c7d0f6;
+}
+
+.es3
+{
+	background: #ffffcd;
+}
+
+.hn
+{
+	background: #e8e3d9;
 }
 
 .titulo
@@ -16,6 +51,12 @@ body
 	text-align: justify;
 }
 
+.subt
+{
+	font-size: 25px;
+	text-align: center;
+}
+
 .marco
 {
 	text-align: center;
@@ -23,7 +64,7 @@ body
 
 .foto
 {
-	border-radius: 25%;
+	border-radius: 50%;
 	width: 25%;
 }
 
