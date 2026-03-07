@@ -1,0 +1,92 @@
+body 
+{
+	background: #92a8b5;
+}
+
+.tb
+{
+	background: #ffc7c4;
+}
+
+.tb2
+{
+	background: #b6eebd;
+}
+
+.tb3
+{
+	background: #fff38a;
+}
+
+.es
+{
+	background: #ee97a8;
+}
+
+.es2
+{
+	background: #c7d0f6;
+}
+
+.es3
+{
+	background: #ffffcd;
+}
+
+.hn
+{
+	background: #e8e3d9;
+}
+
+.titulo
+{
+	text-align: center;
+	font-size: 35px;
+	font-family: Forte;
+}
+
+.contenido
+{
+	font-size: 20px;
+	text-align: justify;
+}
+
+.subt
+{
+	font-size: 25px;
+	text-align: center;
+}
+
+.marco
+{
+	text-align: center;
+	border-radius: 25%;
+}
+
+.marco1
+{
+	border-radius: 15%;
+}
+
+.marco1:hover
+{
+	transform: scale(1.1);
+}
+
+.marco2
+{
+	display: flex;
+	gap: 250px;
+}
+
+.foto
+{
+	border-radius: 50%;
+	width: 25%;
+}
+
+.piepagina
+{
+	font-size: 8px;
+	text-align: center;
+}
