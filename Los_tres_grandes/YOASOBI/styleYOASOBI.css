@@ -1,41 +1,7 @@
 body 
 {
-	background: #6f8c9b;
-}
-
-.tb
-{
-	background: #ffc7c4;
-}
-
-.tb2
-{
-	background: #b6eebd;
-}
-
-.tb3
-{
-	background: #fff38a;
-}
-
-.es
-{
-	background: #ee97a8;
-}
-
-.es2
-{
-	background: #c7d0f6;
-}
-
-.es3
-{
-	background: #ffffcd;
-}
-
-.hn
-{
-	background: #e8e3d9;
+	background: #000000;
+	color: #fff8dc;
 }
 
 .titulo
